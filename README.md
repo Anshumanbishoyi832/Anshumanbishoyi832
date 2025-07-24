@@ -31,7 +31,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/anshuman-bishoyi">
+  <a href="www.linkedin.com/in/anshuman-bishoyi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/https://x.com/Anshumanboyi">
