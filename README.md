@@ -2,20 +2,20 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Web+Developer;Building+Developer+Tools;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Web+Developer;Building+Developer+Tools;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Things+🚀" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🚀 Full Stack Web Developer  
 - 💻 Building **modern web applications and developer tools**  
-- 🌱 Currently learning **Advanced React & Node.js**  
-- 🛠️ Currently building **BugScope – Real-time Error Monitoring Platform**  
+- 🐛 Creator of **BugScope – Error Monitoring Platform**  
+- 🌱 Currently learning **Advanced React & Backend Architecture**  
 - 🤝 Open to **Open Source Collaboration**  
 - 💬 Ask me about **JavaScript, React, Node.js, MERN Stack**  
 - 📧 Email: **man955734@gmail.com**
@@ -65,9 +65,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anshumanbishoyi832&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anshumanbishoyi832&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanbishoyi832&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanbishoyi832&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -77,23 +77,23 @@
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Anshumanbishoyi832&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anshumanbishoyi832&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshumanbishoyi832&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshumanbishoyi832&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -103,12 +103,32 @@
 
 ---
 
+# ⏱ Coding Activity
+
+<div align="center">
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anshumanbishoyi832&theme=tokyonight)
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Anshumanbishoyi832&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
 # 🚀 Current Focus
 
-- Building **BugScope – Developer Error Monitoring Tool**
-- Improving **Full Stack Architecture**
-- Contributing to **Open Source**
-- Learning **Advanced System Design**
+- 🐛 Building **BugScope – Developer Error Monitoring Platform**
+- ⚡ Improving **Full Stack Architecture**
+- 🌍 Contributing to **Open Source**
+- 📚 Learning **System Design**
 
 ---
 
@@ -122,6 +142,6 @@
 
 ⭐ **If you like my projects, consider starring them!**
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Thanks+for+visiting!;Happy+Coding+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting!;Happy+Coding+🚀" />
 
 </div>
