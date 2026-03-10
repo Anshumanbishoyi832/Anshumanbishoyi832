@@ -75,28 +75,6 @@ Full stack application with authentication and API.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Anshumanbishoyi832&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanbishoyi832&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Anshumanbishoyi832&theme=tokyonight&no-frame=true&margin-w=10)
-
-</div>
-
----
-
 # 🐍 Snake Contribution Game
 
 <div align="center">
