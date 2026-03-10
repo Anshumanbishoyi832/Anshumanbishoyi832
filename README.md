@@ -14,7 +14,7 @@
 
 - 🚀 Full Stack Web Developer  
 - 🛠 Creator of **BugScope – Developer Error Monitoring Platform**  
-- 💻 Building **modern web applications and developer tools**  
+- 💻 Building modern web applications and developer tools  
 - 🌱 Currently learning **Advanced React & Backend Architecture**  
 - 🤝 Open to **Open Source Collaboration**  
 - 💬 Ask me about **JavaScript, React, Node.js, MERN Stack**
@@ -64,13 +64,13 @@
 
 # 🚀 Featured Projects
 
-### 🐛 BugScope
+### 🐛 BugScope  
 Real-time error monitoring platform for developers.
 
-### ♟ Chess Game
+### ♟ Chess Game  
 Chess game built using **HTML, CSS, and JavaScript**.
 
-### 🌐 MERN Stack App
+### 🌐 MERN Stack App  
 Full stack application with authentication and API.
 
 ---
@@ -87,17 +87,17 @@ Full stack application with authentication and API.
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshumanbishoyi832&theme=tokyo-night&hide_border=true"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=Anshumanbishoyi832&theme=tokyonight&no-frame=true&margin-w=10)
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake Game
+# 🐍 Snake Contribution Game
 
 <div align="center">
 
@@ -107,15 +107,33 @@ Full stack application with authentication and API.
 
 ---
 
-# 🎮 Fun Zone
+# 👾 Pac-Man Developer Mode
 
 <div align="center">
 
-### Coding is like a game — always level up 🎯
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="420"/>
+
+</div>
+
+---
+
+# 🎮 Retro Game Zone
+
+<div align="center">
 
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
-
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshumanbishoyi832&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
