@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🚀 Full Stack Web Developer  
 - 💻 Building **modern web applications and developer tools**  
@@ -65,9 +65,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anshumanbishoyi832&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anshumanbishoyi832&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanbishoyi832&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanbishoyi832&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,26 +88,6 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshumanbishoyi832&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Anshumanbishoyi832&theme=tokyonight&no-frame=true&margin-w=8)
-
-</div>
-
----
-
-# ⏱ Coding Activity
-
-<div align="center">
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anshumanbishoyi832&theme=tokyonight)
 
 </div>
 
