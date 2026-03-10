@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Web+Developer;Building+Developer+Tools;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Things+🚀" />
+### 🚀 Building Developer Tools
 
 </div>
 
@@ -13,7 +13,7 @@
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🚀 Full Stack Web Developer  
-- 💻 Building **modern web applications and developer tools**  
+- 💻 Building modern web applications and developer tools  
 - 🐛 Creator of **BugScope – Error Monitoring Platform**  
 - 🌱 Currently learning **Advanced React & Backend Architecture**  
 - 🤝 Open to **Open Source Collaboration**  
@@ -58,18 +58,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anshumanbishoyi832&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanbishoyi832&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -120,8 +108,8 @@
 
 <div align="center">
 
-⭐ **If you like my projects, consider starring them!**
+⭐ If you like my projects, consider starring them!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting!;Happy+Coding+🚀" />
+### Thanks for visiting!
 
 </div>
