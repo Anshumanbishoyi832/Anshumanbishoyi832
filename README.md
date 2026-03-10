@@ -61,16 +61,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Anshumanbishoyi832&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
