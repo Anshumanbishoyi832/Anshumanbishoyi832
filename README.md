@@ -1,8 +1,8 @@
-# 👋 Hi, I'm **Anshuman Bishoyi**
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm **Anshuman Bishoyi**
 
 <div align="center">
 
-### 🚀 Building Developer Tools
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Web+Developer;Building+Developer+Tools;Creator+of+BugScope;Always+Learning+New+Things+🚀"/>
 
 </div>
 
@@ -13,12 +13,13 @@
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🚀 Full Stack Web Developer  
-- 💻 Building modern web applications and developer tools  
-- 🐛 Creator of **BugScope – Error Monitoring Platform**  
+- 🛠 Creator of **BugScope – Developer Error Monitoring Platform**  
+- 💻 Building **modern web applications and developer tools**  
 - 🌱 Currently learning **Advanced React & Backend Architecture**  
 - 🤝 Open to **Open Source Collaboration**  
-- 💬 Ask me about **JavaScript, React, Node.js, MERN Stack**  
-- 📧 Email: **man955734@gmail.com**
+- 💬 Ask me about **JavaScript, React, Node.js, MERN Stack**
+
+📧 Email: **man955734@gmail.com**
 
 ---
 
@@ -44,20 +45,45 @@
 
 # 🛠 Tech Stack
 
-### Frontend
+### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma"/>
 </p>
 
-### Backend & Database
+### ⚙ Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
 </p>
 
-### Tools
+### 🧰 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🐛 BugScope
+Real-time error monitoring platform for developers.
+
+### ♟ Chess Game
+Chess game built using **HTML, CSS, and JavaScript**.
+
+### 🌐 MERN Stack App
+Full stack application with authentication and API.
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Anshumanbishoyi832&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanbishoyi832&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -65,7 +91,31 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshumanbishoyi832&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshumanbishoyi832&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Game
+
+<div align="center">
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎮 Fun Zone
+
+<div align="center">
+
+### Coding is like a game — always level up 🎯
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
 
 </div>
 
@@ -92,7 +142,7 @@
 
 # 💡 Developer Philosophy
 
-> "Great software is built by developers who never stop learning."
+> *"Great software is built by developers who never stop learning."*
 
 ---
 
@@ -100,6 +150,6 @@
 
 ⭐ If you like my projects, consider starring them!
 
-### Thanks for visiting!
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting!;Happy+Coding+🚀"/>
 
 </div>
